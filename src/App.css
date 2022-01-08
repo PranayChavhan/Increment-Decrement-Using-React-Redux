@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.quantity{
+  display: flex;
+  justify-content: space-between;
+  
+}
+a{
+  background-color: grey;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  cursor: pointer;
+}
+
+.quantity_input{
+  border-radius: 0.75rem;
+  text-align: center;
+  margin-left: 0.50rem; 
+  margin-right: 0.50rem;
+  
+}
